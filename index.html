@@ -1,23 +1,24 @@
 ---
-layout: default
+layout: page
+title: 
 ---
 
-<div class="home">
+<center><!--<h4><p>Anna Schultz</p>
+<p>PhD Candidate, Duke University</p>
+<p>Pre-doctoral fellow, University of Pennsylvannia</p>
+<p>aes53[at]duke.edu</p>
+</h5> 
 
-  <h1 class="page-heading">Posts</h1>
+{% capture my-include1 %}{% include about1.md %}{% endcapture %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+{{ my-include1 | markdownify }} -->
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+</center>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+{% capture my-include %}{% include about.md %}{% endcapture %}
 
-</div>
+{{ my-include | markdownify }}
+
+ 
+
+
