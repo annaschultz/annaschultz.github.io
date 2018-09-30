@@ -2,8 +2,10 @@
 
 
 
-Postdoctoral fellow, Program in Identity and Conflict
+Postdoctoral fellow, Program on Identity and Conflict
+
+Department of Political Science
 
 University of Pennsylvannia
 
-aes53[at]duke.edu
+anschul[at]sas.upenn.edu
