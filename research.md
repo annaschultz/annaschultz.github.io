@@ -13,14 +13,19 @@ Publications:
 
 Working papers:
 
-+ "Austerity as Violence: Measuring the Effects of Economic Austerity on Pro-Sociality." With Nicholas Sambanis and Elena Nikolova.
++ “Violence and the Persistence of Ethnic Identification.” With Nicholas Sambanis.
 
-+ "What Makes Autocracy Work? Repression, Economic Growth, and Autocratic Consolidation." With Max Gallop. 
++ “Communication Technology and National Identity: Evidence from Sub-Saharan Africa.” With Donghyun Danny Choi and Benjamin Laughlin.
 
-+ "Endogenous choices: Local tax rates, state capacity, and the decision to fight." With Michael Ward and Nils Metternich.
++ “When Chiefs Buy Votes: Evidence from Ghana.”
 
-+ "Clientelism, Tribes, and Governance: Evidence from Ghana'' With Erik Wibbels and Heather Huntington.
++ “Measuring the Effects of Economic Austerity on Pro-Sociality: Evidence from Greece” With Nicholas Sambanis and Elena Nikolova.
 
++ “The Geography of Accountability: Evidence from sub-Saharan Africa”
+
++ “Clientelism, Tribes, and Governance: Evidence from Ghana” With Erik Wibbels and Heather Huntington.
+
++ “What Makes Autocracy Work? Repression, Economic Growth, and Autocratic Consolidation.” With Max Gallop.
 
 
 
