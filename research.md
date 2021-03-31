@@ -12,7 +12,7 @@ Publications:
 
 
 
-{% include image.html url="/images/mobile_Africa.jpg" width=160 align="right" %}
+{% include image.html url="/images/mobile_Africa.png" width=160 align="right" %}
 
 Working papers:
 
