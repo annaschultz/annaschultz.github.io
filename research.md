@@ -13,13 +13,13 @@ Publications:
 
 Working papers:
 
-+ “Violence and the Persistence of Ethnic Identification.” With Nicholas Sambanis.
-
-+ “Communication Technology and National Identity: Evidence from Sub-Saharan Africa.” With Donghyun Danny Choi and Benjamin Laughlin.
++ “Communication Technology and National Identity: Evidence from Sub-Saharan Africa.” With Donghyun Danny Choi and Benjamin Laughlin. *Under Review*
 
 + “When Chiefs Buy Votes: Evidence from Ghana.”
 
-+ “Measuring the Effects of Economic Austerity on Pro-Sociality: Evidence from Greece” With Nicholas Sambanis and Elena Nikolova.
++ “Measuring the Effects of Economic Austerity on Pro-Sociality: Evidence from Greece” With Nicholas Sambanis and Elena Nikolova. *Under Review*
+
++ “Violence and the Persistence of Ethnic Identification.” 
 
 + “The Geography of Accountability: Evidence from sub-Saharan Africa”
 
