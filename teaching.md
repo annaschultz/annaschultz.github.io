@@ -4,8 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I have served as a teaching assistant for courses in comparative politics, political economy,  and political methodology.
+I have taught courses in African Politics and the Politics of Economic Development.
 
+I've also served as a teaching assistant for courses in comparative politics, political economy,  and political methodology.
 
 Graduate level:
 
