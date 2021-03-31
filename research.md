@@ -11,6 +11,9 @@ Publications:
 + "[Learning from the past and stepping into the future: Toward a new generation of conflict prediction](http://onlinelibrary.wiley.com/doi/10.1111/misr.12072/abstract)." With M. D. Ward, N. W. Metternich, C. L. Dorff, M. Gallop, F. M. Hollenbach, and S. Weschle.  *International Studies Review*, 15(4):473 - 490, 2013. 
 
 
+
+{% include image.html url="/images/mobile_Africa.jpg" width=160 align="right" %}
+
 Working papers:
 
 + “Communication Technology and National Identity: Evidence from Sub-Saharan Africa.” With Donghyun Danny Choi and Benjamin Laughlin. *Under Review*
