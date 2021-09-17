@@ -16,7 +16,7 @@ Publications:
 
 Working papers:
 
-+ [“Communication Technology and National Identity: Evidence from Sub-Saharan Africa.”](/AES-TechID.pdf)  With Donghyun Danny Choi and Benjamin Laughlin. *Under Review*
++ [“Communication Technology and National Identity: Evidence from Sub-Saharan Africa.”](/MTechID_Full.pdf)  With Donghyun Danny Choi and Benjamin Laughlin. *Under Review*
 
 + “When Chiefs Buy Votes: Evidence from Ghana.”
 
